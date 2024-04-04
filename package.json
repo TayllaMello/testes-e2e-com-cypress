@@ -10,6 +10,9 @@
   "author": "Tayllã Mello",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.15.0"
+    "cypress": "^12.15.0",
+    "eslint": "^8.43.0",
+    "eslint-plugin-cypress": "^2.13.3",
+    "eslint-plugin-react": "^7.34.1"
   }
 }
